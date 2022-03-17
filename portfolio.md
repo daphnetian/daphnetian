@@ -17,9 +17,9 @@
 - Created with Photoshop and Figma
 ![Litehacks](https://github.com/daphnetian/daphnetian/blob/images/eprojectslitehacks.png?raw=true)
 ![Figma Design](https://github.com/daphnetian/daphnetian/blob/images/figmaLH1.png?raw=true)
-![FBLA1](https://github.com/daphnetian/daphnetian/blob/images/FBLANewYearP1%20(1).psd?raw=true)
+![FBLA1](https://github.com/daphnetian/daphnetian/blob/images/fbla/FBLANewYearP1%20(1).png?raw=true)
 ![Litehacks2](https://github.com/daphnetian/daphnetian/blob/images/litehacks2.png?raw=true)
-![FBLA2](https://github.com/daphnetian/daphnetian/blob/images/FBLANewYearP2%20(1).psd?raw=true)
+![FBLA2](https://github.com/daphnetian/daphnetian/blob/images/fbla/FBLANewYearP2%20(1).png?raw=true)
 
 ### 4) Yearbook Spreads
 - All made with Photoshop
