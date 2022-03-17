@@ -1,9 +1,11 @@
 # Portfolio
 - Created with Photoshop, Figma, Procreate and Krita.
-- Divided into 3 subsections: 1) Digital Art 2) Promotional Designs for social media 3) Yearbook Spreads
+- Divided into 4 sections: 1) Projects 2) Digital art 3) Promotional designs for social media 4) Yearbook spreads
 
-### Framework of OkBuddy Project 
+### App Framework of OkBuddy Project 
 - https://www.figma.com/file/qxJF9zfQdQfR7G3aIyeJn7/OkBuddy?node-id=0%3A1
+### Full Yearbook Project
+- https://drive.google.com/file/d/1wAMZoDVbMIBPWTjVxQ3RR_rTlClAzhm1/view?usp=sharing
 
 ### Digital Art
 - Drawn with Photoshop, Procreate and Figma
