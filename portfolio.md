@@ -1,4 +1,4 @@
-## Portfolio
+# Portfolio
 - Created with Photoshop, Figma, Procreate and Krita.
 - Divided into 3 subsections: 1) Digital Art 2) Promotional Designs for social media 3) Yearbook Spreads
 
