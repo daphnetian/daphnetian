@@ -10,21 +10,21 @@
 ### 2) Digital Art
 - Drawn with Photoshop, Procreate and Figma
 ![Dimitri](https://github.com/daphnetian/daphnetian/blob/images/dimitri.jpg?raw=true)
-![Animals](https://github.com/daphnetian/daphnetian/blob/main/animals.png?raw=true)
-![Tattoo Designs](https://github.com/daphnetian/daphnetian/blob/main/tattoodesigns01.png?raw=true)
+![Animals](https://github.com/daphnetian/daphnetian/blob/images/animals.png?raw=true)
+![Tattoo Designs](https://github.com/daphnetian/daphnetian/blob/images/tattoodesigns01.png?raw=true)
 
 ### 3) Promotional Design
 - Created with Photoshop and Figma
 ![Litehacks](https://github.com/daphnetian/daphnetian/blob/images/eprojectslitehacks.png?raw=true)
 ![Figma Design](https://github.com/daphnetian/daphnetian/blob/images/figmaLH1.png?raw=true)
-![FBLA1](https://github.com/daphnetian/daphnetian/blob/main/FBLANewYearP1%20(1).psd?raw=true)
+![FBLA1](https://github.com/daphnetian/daphnetian/blob/images/FBLANewYearP1%20(1).psd?raw=true)
 ![Litehacks2](https://github.com/daphnetian/daphnetian/blob/images/litehacks2.png?raw=true)
-![FBLA2](https://github.com/daphnetian/daphnetian/blob/main/FBLANewYearP2%20(1).psd?raw=true)
+![FBLA2](https://github.com/daphnetian/daphnetian/blob/images/FBLANewYearP2%20(1).psd?raw=true)
 
 ### 4) Yearbook Spreads
 - All made with Photoshop
-![Sports Transition](https://github.com/daphnetian/daphnetian/blob/main/Sports%20Transition.jpg?raw=true)
-![Principal's Spread](https://github.com/daphnetian/daphnetian/blob/main/Principal's%20spread%20DPS%208.5x11.jpg?raw=true)
-![CC Transition](https://github.com/daphnetian/daphnetian/blob/main/Clubs%20and%20Councils%20Transition.jpg?raw=true)
-![AAC Spread](https://github.com/daphnetian/daphnetian/blob/main/AAC%20-%20yearbook.jpg?raw=true)
+![Sports Transition](https://github.com/daphnetian/daphnetian/blob/images/Sports%20Transition.jpg?raw=true)
+![Principal's Spread](https://github.com/daphnetian/daphnetian/blob/images/Principal's%20spread%20DPS%208.5x11.jpg?raw=true)
+![CC Transition](https://github.com/daphnetian/daphnetian/blob/images/Clubs%20and%20Councils%20Transition.jpg?raw=true)
+![AAC Spread](https://github.com/daphnetian/daphnetian/blob/images/AAC%20-%20yearbook.jpg?raw=true)
 
