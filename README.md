@@ -1,4 +1,4 @@
-<h2> Hi, I’m Daphne! 🐅</h2>
+<h2> Hi there, I’m Daphne 🐅</h2>
 
 <!---
 daphnetian/daphnetian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
