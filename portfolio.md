@@ -8,6 +8,8 @@
 - https://drive.google.com/file/d/1wAMZoDVbMIBPWTjVxQ3RR_rTlClAzhm1/view?usp=sharing
 ### 1c) USB Model made in Maya
 - https://drive.google.com/file/d/1z17_-4GvkY2QrcAHYRM6BsiPV6vo9ZU-/view?usp=sharing
+### 1d) CRWR Multi-media Storytelling Project
+- https://daph-crwr.tumblr.com
 
 ### 2) Digital Art
 - Drawn with Photoshop, Procreate and Figma
