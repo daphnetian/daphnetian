@@ -6,10 +6,8 @@
 - https://www.figma.com/file/qxJF9zfQdQfR7G3aIyeJn7/OkBuddy?node-id=0%3A1
 ### 1b) Full Yearbook Project
 - https://drive.google.com/file/d/1wAMZoDVbMIBPWTjVxQ3RR_rTlClAzhm1/view?usp=sharing
-### 1c) USB Model made in Maya
-- https://drive.google.com/file/d/1z17_-4GvkY2QrcAHYRM6BsiPV6vo9ZU-/view?usp=sharing
-### 1d) CRWR Multi-media Storytelling Project
-- https://daph-crwr.tumblr.com
+### 1c) Independently created the 2022 EProject's Hiring Package
+- https://drive.google.com/file/d/17s4r9GxAns1Jw_ITKGGJZhRoBvVcggJa/view
 
 ### 2) Digital Art
 - Drawn with Photoshop, Procreate and Figma
