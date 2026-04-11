@@ -1,4 +1,4 @@
-<h2> Hi there, I’m Daphne </h2>
+<h2 class="hero-title">Hi there, I’m Daphne</h2>
 
 **User + Product Researcher · Data Science · Human-AI Interaction**
  
