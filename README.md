@@ -2,7 +2,7 @@
 
 **User + Product Researcher · Data Science · Human-AI Interaction**
  
-Currently studying Computational Intelligence & Design with a minor in Data Science at UBC. Background in data analysis and user behavior analytics. Now focused on human-computer interaction, user, and design research, combining quantitative and qualitative methods to study how people interact with AI. Currently researching AI voice assistants for older adults in online banking.
+Studying Computational Intelligence & Design (minor in Data Science) at UBC. I do human-computer interaction, user, and design research, combining quantitative and qualitative methods with data analysis to study how people interact with AI. Currently researching AI voice assistants for older adults in online banking.
 
 ## Tech Stack
  
