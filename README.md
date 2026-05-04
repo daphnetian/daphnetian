@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hi there, I’m Daphne</h2>
-  <p><strong>User + Product Researcher · Data Science · Human-AI Interaction</strong></p>
+  <p><strong> User Experience Researcher · Human Computer Interaction Researcher </strong></p>
 </div>
 
 <p>
