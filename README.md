@@ -1,6 +1,5 @@
 <div align="center">
   <h2>Hi there, I’m Daphne</h2>
-  <p><strong> User Experience Researcher · Human Computer Interaction Researcher </strong></p>
 </div>
 
 <p>
@@ -10,17 +9,7 @@
 </p>
 
 <p>
-  Currently researching AI voice assistants for older adults in online banking.
-</p>
-
-## Tech Stack
-
-**Languages**
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,java,cpp,js,html,css" alt="Languages" />
-  </a>
+  Currently researching computational paremiology and (separately) building a decision-making agent.
 </p>
 
 ## Interests
