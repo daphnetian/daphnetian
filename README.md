@@ -1,21 +1,15 @@
-<div align="center">
-  <h2>Hi there, I’m Daphne</h2>
-</div>
+## Hello!
 
-<p>
-  Studying Computational Intelligence &amp; Design (minor in Data Science) at UBC.
-  I do human-computer interaction, user, and design research, combining quantitative
-  and qualitative methods with data analysis to study how people interact with AI.
-</p>
+I completed my degree in Computational Intelligence & Design, with a minor in Data Science, at UBC.
 
-<p>
-  Currently researching computational paremiology and (separately) building a decision-making agent.
-</p>
+I explore how people understand, trust, and make decisions with AI, using research, data, and computational methods to build more human-centered systems.
+
+Currently researching computational paremiology and building a decision-making agent.
 
 ## Interests
 
-- Human-Computer Interaction + Multimodal AI
-- Data Science + Mixed-Methods Research
-- Responsible AI Policy + Governance
-- Accessible & Inclusive Technology
-- Computational Modeling, Agent-Based Systems
+- Human-AI interaction and multimodal AI
+- UX research and mixed-methods research
+- Data science, NLP, and information retrieval
+- Decision-making, trust, and human-centered AI
+- Accessible, inclusive, and responsible technology
