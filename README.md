@@ -1,15 +1,16 @@
-## Hello!
+# Hi, I'm Daphne! 
 
-I completed my degree in Computational Intelligence & Design, with a minor in Data Science, at UBC.
+**UBC BSc in [Cognitive Systems: Computational Intelligence & Design](https://www.cs.ubc.ca/students/undergrad/prospective/switching/computer-science-specializations) · Minor in Data Science**
 
-I explore how people understand, trust, and make decisions with AI, using research, data, and computational methods to build more human-centered systems.
+I study how people understand, trust, and make decisions with AI, using a mix of HCI, data science, and computational methods.
 
-Currently researching computational paremiology and building a decision-making agent.
+- 🔬 Currently wrapping up an HCI research manuscript on multimodal AI for older adults in online banking
+- 🧠 Recently worked on computational paremiology, NLP, and semantic retrieval at the University of Waterloo
+- 💼 Previously worked in UX and design research at TD and Global Relay
 
 ## Interests
 
-- Human-AI interaction and multimodal AI
-- UX research and mixed-methods research
-- Data science, NLP, and information retrieval
-- Decision-making, trust, and human-centered AI
-- Accessible, inclusive, and responsible technology
+- **Human-AI interaction:** multimodal AI, conversational systems, trust, and decision-making
+- **Human-centered data science:** mixed methods, UX research, experimentation, and behavioral data
+- **NLP and information retrieval:** semantic search, embeddings, classification, and computational text analysis
+- **Responsible technology:** accessibility, inclusion, and human-centered AI
