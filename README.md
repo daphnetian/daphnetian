@@ -1,17 +1,7 @@
-# Hi, I'm Daphne! 
+I work full-time in data engineering and analytics, building ETL pipelines and embedded reporting for an AI software platform serving manufacturing clients. I’m also pursuing a part-time master’s in Human-Centered Data Science at the University of Toronto.
 
-BSc in [Cognitive Systems: Computational Intelligence & Design](https://www.cs.ubc.ca/students/undergrad/prospective/switching/computer-science-specializations) + Data Science minor @ University of British Columbia
+My background includes human-AI interaction research at the University of British Columbia, where I majored in Computational Intelligence and Design, NLP and semantic retrieval research at the University of Waterloo, and user experience research internships in industry.
 
-I study how people understand, trust, and make decisions with AI, using a mix of human-computer interaction (HCI), data science, and computational methods.
+I’m interested in designing, building, and evaluating AI systems with attention to how people use them, when they trust them, and their ethical implications. I’m also interested in using data science to understand and address social issues. Happy to chat about data, human-AI interaction, or research ideas.
 
-- 🔬 Currently wrapping up an HCI research manuscript on multimodal AI for older adults for online banking
-- 🧠 Recently worked on computational paremiology, NLP, and semantic retrieval at the University of Waterloo
-- 💼 Previously worked across user research, design research, and product insights at TD and Global Relay
-
-## Interests
-
-* Human-AI interaction (multimodal and conversational AI, trust, decision-making)
-* Product and interaction research/design (UX research, prototyping, usability, accessible design)
-* Data science and experimentation (behavioural data, mixed methods, statistical analysis)
-* NLP and information retrieval (semantic search, embeddings, classification)
-
+📧: daphne[dot]tian[at]mail[dot]utoronto[dot]ca
